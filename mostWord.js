@@ -14,7 +14,7 @@ function mostWord(chaine) {
     });
     console.log(Math.max(...taille));
   }else {
-    console.log("Veuiller entrer une chaine de caractère s'il vous pla");
+    console.log("Veuiller entrer une chaine de caractère s'il vous plaît");
   }
 }
 
